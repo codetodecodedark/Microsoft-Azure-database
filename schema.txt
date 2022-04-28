@@ -1,0 +1,15 @@
+Create Table Personal_Information(
+	id Integer IDENTITY(1,1) Primary Key,
+	first_name Varchar(MAX),
+	last_name Varchar(MAX),
+	age Integer,
+	gender Varchar(MAX),
+	city Varchar(MAX),
+	country Varchar(MAX)
+)
+
+insert into [dbo].[Personal_Information]
+([first_name],[last_name],[age],[gender],[city],[country])
+VALUES
+('nitish','garssa',21,'male','pilani','india')
+GO

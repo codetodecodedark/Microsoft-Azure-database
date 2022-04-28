@@ -1,0 +1,3 @@
+{
+    "AzureSQLConnectionString": "Driver={ODBC Driver 17 for SQL Server};Server=nitishserver.database.windows.net,1433;Database=personal_info;Uid=login;Pwd=password@123;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;"
+}

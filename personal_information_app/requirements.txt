@@ -1,0 +1,7 @@
+gunicorn
+fastapi
+sqlalchemy
+uvicorn
+sqlmodel
+requests
+pyodbc== 4.0.32
